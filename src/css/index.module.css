@@ -1,0 +1,56 @@
+.center1{
+display: flex;
+
+
+background-color: aquamarine;
+
+}
+
+.center2{
+display: flex;
+align-items: center;
+justify-content: center;
+height: 80vh;
+background-color: aquamarine;
+
+}
+
+.unActive{
+    color:#ffffff;
+ text-decoration: none; 
+ background-color: rgb(83, 83, 76);
+   
+    
+}
+.hover:hover{
+    color:rgb(215, 240, 245);
+ text-decoration: none; 
+ background-color: rgb(71, 71, 36);
+   
+}
+
+
+.active{
+  background-color: chartreuse;
+  color:rgb(10, 10, 10);
+  font-weight: bold;
+  font-size:medium;
+}
+
+.deleteUpdateActive{
+  background-color: chartreuse;
+  color:rgb(10, 10, 10);
+
+}
+.deleteUpdateUnActive{
+  color:rgb(225, 240, 241);
+ text-decoration: none; 
+ background-color: rgb(83, 83, 76);
+}
+
+
+.deleteUpdateHover:hover{
+     color:rgb(6, 7, 7);
+ text-decoration: none; 
+ background-color: rgb(224, 224, 12);
+}
